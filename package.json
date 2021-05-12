@@ -11,7 +11,7 @@
     "d3": "^3.5.17",
     "d3-latest": "^5.0.4",
     "d3-svg-legend": "^2.25.6",
-    "mathjs": "^5.4.2",
+    "mathjs": "^7.5.1",
     "prop-types": "latest",
     "react": "^16.4.1",
     "react-d3-scatterplot-matrix": "^1.0.0",
